@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[es_ES]=
+Comment=
+GenericName[es_ES]=
+GenericName=
+Icon=gnome-folder
+MimeType=
+Name=dades
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Exec=/usr/bin/dolphin --new-window /dades/miquel.garcia.bardaji
